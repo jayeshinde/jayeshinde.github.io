@@ -124,9 +124,8 @@ experiences:
       time: Oct 2010 - June 2013
       company: Zensar Pvt Ltd, Pune
       details: |
-        Developed Enterprise Grade Airline Mobile Apps for Jetstar.
-        JetStar is low-cost Australian Airways. For Crews, Pilots, Captions, Deck Employee iPad based app
-developed called JetStar Flight Information Display System (JFIDS). To calculate the Center of Gravity of Aircarft, iPad based application called Weight and Balance (WB) developed. FAA approved the use of the Apple iPad within aircraft cockpits across America so long as the device is used as a secondary, backup resource to long-reliable paper options, pilots may choose to reference the iPad for various flight needs.
+        Developed Enterprise Grade Airline Mobile Apps for Jetstar. JetStar is low-cost Australian Airways. For Crews, Pilots, Captions, Deck Employee iPad based app
+        developed called JetStar Flight Information Display System (JFIDS). To calculate the Center of Gravity of Aircarft, iPad based application called Weight and Balance (WB) developed. FAA approved the use of the Apple iPad within aircraft cockpits across America so long as the device is used as a secondary, backup resource to long-reliable paper options, pilots may choose to reference the iPad for various flight needs.
         Objective C, iPhoneGap, Javascript, jQueryMobile, PHP, MSSQL, .NET SOAP Services
           - Successful development of bespoke solution, which was resulted as joint IP between Zensar and Jetstar.
           - Use of BlueBamboo Printers iP25 as external accessories for printing over iPad
