@@ -3,7 +3,7 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -65,7 +65,7 @@ experiences:
       company: Emirates National Bank of Dubai, Dubai
       details: |
         End-to-End Solutioning and acting as Senior full Stack Developer
-        Angular 6/7, Node 8/10, IBM LoopBack, PostgreSQL, Typescript 3, Apache Kafka Enterprise Integrations with Remedy and AlgoSec, different backends with Legacy Stack.
+        Angular 6/7, Node 8/10, IBM LoopBack, Material UI, PostgreSQL, Typescript 3, Apache Kafka Enterprise Integrations with Remedy and AlgoSec, different backends with Legacy Stack.
         CyberArk, SailPoint for IAM.
         Micro-services using TypeScript 2.x, MongoDB 4.x, Node 10.x, 3Scale
         Kafa as Message Queing, Custom Kafka producer and consumer client
@@ -78,7 +78,7 @@ experiences:
       company: Varian Medical Systems, Pune
       details: |
         Enterprise Integrations of Mobile Platform/Apps with SAP S4HANA and SalesForce.
-        DevOps Setup using Jenkins, SonarQube, Docker based deployment, TestFairy,
+        DevOps Setup using Jenkins, SonarQube, Docker based deployment, TestFairy, MaterialUI, 
         Angular 2/4, React 15.x, Native React, Swift 3.x, RealmDB, CoreData, Sinon, Mocha, Chai, AWS, Node based Microservices
         SAP Mobile SDK, Kepsal, Netweaver 7.x Gateway Management, OData Services, Airwatch as MDM
 
@@ -135,10 +135,11 @@ experiences:
       company: Government College of Engineering, Pune
       details: |
         MIS intended for Universities, educational institutes and colleges which provide different academic programs for under graduate, post graduate, Doctoral students or any specialized job oriented programs. The product allow Enrollment for students and faculties with unique ID Student Credit Registration and Elective Selection Complete academic configuration to conduct the program which includes creating Academic Calendar, adopting multiple marking system such as Relative or Absolute, Deciding Academic and Exam Schema for conduction for Academic and Exam Hostel Management for the students.
-        Motorcycle Rides GPS is the only iPhone and iPod Touch app that is specifically designed to help Aussie and Kiwi riders find great places to ride their bikes, Search for Nearby Rides (GPS) based on your current location. Search Rides by Location (currently we have over 200 Australian and NZ based motorbike rides in our directory; new rides are added on a weekly basis (and automatically added to the app) Plan a day’s riding using our new Ride Itinerary Planner. View on-board Ride Videos of our favourite rides; Record your own rides GPS tracks using our Ride GPS Recorder. Save your Recorded Rides and share with Motorcycle Rides for inclusion in our ride directory. Share rides with friends via email, Facebook and Twitter. This application is developed for Australia, New Zealand UK, and US versions.
+        Motorcycle Rides GPS is the only iPhone and iPod Touch app that is specifically designed to help Aussie and Kiwi riders find great places to ride their bikes, Search for Nearby Rides (GPS) based on your current location. This application is developed for Australia, New Zealand UK, and US versions.
         Objective C, CocoaTouch, SQLite, SharePoint, iPhoneGap, Javascript, jQueryMobile, PHP, MSSQL, .NET SOAP Services
           - Successful development of bespoke solution on SharePoint, MSSQL
           - jQuery Mobile based Cross Platform app for Android devices and Native Objective C based iOS app developed in quick time integrating with wordpress
+          - Facebook and Twitter integrtion along with video recording and uploading
 
     - role:  Software Developer
       time: Oct 2007 - Jan 2009
@@ -152,10 +153,6 @@ experiences:
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-
     assignments:
       - title: Aetna Member Central Portal
         link: "https://my.aetna.com/#/public-search/"
@@ -192,19 +189,16 @@ skills:
 
     toolset:
       - name: JavaScript and TypeScript
-        level: 95%
+        level: 98%
 
       - name: Objective C and Swift
-        level: 95%
+        level: 98%
 
       - name: Angular
-        level: 95%
+        level: 98%
 
       - name: ES6, Node, Sinon, Mocha, Chai, Jasmin, Git, Jenkins, Airwatch, Kafka
         level: 90%
-
-      - name: HTML5 & CSS
-        level: 95%
 
       - name: React and React Native, Redux
         level: 85%
