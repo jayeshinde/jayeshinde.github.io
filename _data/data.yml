@@ -7,124 +7,148 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Jayesh A Shinde
+    tagline: Full Stack Technical Architect
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
-    gitlab:
-    bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
+    email: jayeshashinde@icloud.com
+    phone: 
+    website: jayeshinde.github.io/blogs #do not add http://
+    linkedin: jayeshshinde
+    github: jayeshinde
+    twitter: '@jayesh12'
+    medium: '@jayeshshin'
+    instagram: jayeshinde
 
     languages:
       - idiom: English
-        level: Native
-
+        level: Proficient
       - idiom: French
-        level: Professional
-
-      - idiom: Spanish
-        level: Professional
+        level: Basic
 
     interests:
-      - item: Climbing
+      - item: PhotoGraphy
         link:
 
-      - item: Snowboarding
-        link:
-
-      - item: Cooking
+      - item: Travelling
         link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
+      I am certified AWS Solution Architect, having 12 years of IT experience, all my experience is in Enterprise level Mobile and Web Application Development right from Technology Consulting, POC, Development to UAT, Product Roadmaps.
 
-      Second paragraph if required.
+      In this 12 years I worked with major service providers IBM, TCS, Accenture, Zensar and served multiple clients across US, UK, Australia from Manufacturing, Health Care, Banking Domains like LifeNexus, MerckMSD, JCI, Holcim, Aetna, JetStar Airline, JLR. 
+      I started my career as Native iOS Developer, then turn in to Full Stack Developer using various javascript frameworks like React, Angular, Knockout, Backbone, SAP UI5. Worked on various cross platform tools like PhoneGap, Titanium, Ionic.
+      On API layers worked on PHP, Node JS, for API Management worked on Layer7, Apigee. 
+      Having Excellent hands on PgSQL and MariaDB, MySQL as Databases. 
+      Practical Experience on setting up Kafka as Message Queuing with Node, Jenkins.
+      I also have strong experience on bringing various Enterprise systems like IBM Mainframe, Salesforce, SAP S4HANA, ECC Systems on mobile.
+      Hands on experience on various Authentication protocols OAuth, Okta, OpenID Connect, JWT.
+
+      While working with EmiratesNBD I lead the team of Cloud Transformation, to build custom in house be spoke Cloud Management Portal.
+      I lead the SAP S4HANA Transformations at Varian in Fiori Areas which cuts across Finance, Manufacturing, Supply Chain Domains.
+
+      Conducted various workshops, trainings, sessions with customers, internal IT Teams on Agile Practices in Development, Pair Programming, PeerReviews, Programming Methods, Design Patterns, etc.
 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: Bachelor of Engineering in Electronics and Telecommuications
+      university: University of Pune
+      time: 2003 - 2007
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
-
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
+          - First Class with Distinction
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: UI Technical Architect
+      time: Sep 2018 - Present
+      company: Emirates National Bank of Dubai, Dubai
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+        End-to-End Solutioning and acting as Senior full Stack Developer
+        Angular 6/7, Node 8/10, IBM LoopBack, PostgreSQL, Typescript 3, Apache Kafka Enterprise Integrations with Remedy and AlgoSec, different backends with Legacy Stack.
+        CyberArk, SailPoint for IAM.
+        Micro-services using TypeScript 2.x, MongoDB 4.x, Node 10.x, 3Scale
+        Kafa as Message Queing, Custom Kafka producer and consumer client
 
-          - Bullet point
-          - Bullet point
+          - Delivered custom bespoke portal in short span of time
+          - Act as SME for Cloud and Infrastructure as Service Platform
 
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Mobile Technical Architect
+      time: Apr 2017 - Aug 2017
+      company: Varian Medical Systems, Pune
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        Enterprise Integrations of Mobile Platform/Apps with SAP S4HANA and SalesForce.
+        DevOps Setup using Jenkins, SonarQube, Docker based deployment, TestFairy,
+        Angular 2/4, React 15.x, Native React, Swift 3.x, RealmDB, CoreData, Sinon, Mocha, Chai, AWS, Node based Microservices
+        SAP Mobile SDK, Kepsal, Netweaver 7.x Gateway Management, OData Services, Airwatch as MDM
 
-          - Bullet point
-          - Bullet point
+          - Delivered 2 Enterprise level Mobile applications for Compliance and Marketing Team globally 
+          - Delivered 2 Fiori Apps in area of Manufacturing and Supply Chain Area Team globally
+          - Delivered S4HANA Fiori Upgrade to 1709 from existing Business Suite with more than 50+ Standard SAP apps
+          - Delivered Custom BeSpoke MyInbox 2.0 Mobile and FioriApp
 
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+    - role: Mobile Application Development Specialist
+      time: Sep 2015 - Apr 2017
+      company: Accenture Services Pvt Ltd, Pune
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        Worked with Aetna and Merck MSD as offshore lead. 
+        Angular JS 1.x, Native React, Redux, Swift 3.0, RealmDB, Deployment over AWS, Mocha, Sinon, ES6, 
+        and API integrations using Apigee, SAP Mobile SDK using SUP
+          - Successfully delivered version 1.0 for one of the mobile applications in a short time span of 5 months with 100% customer satisfaction
 
-          - Bullet point
-          - Bullet point
+    - role: Technial Architect
+      time: Apr 2014 - Sep 2015
+      company: Tata Consultancy Services Pvt Ltd, Pune
+      details: |
+        Worked with Holcim and JohnsonControl as offshore lead. 
+        Delivery of a Pilot Mobility POC with Azure Cloud Platform, Notification Hubs, QT Integrations for
+        Panasonic AGV Controller. Various intermediate document preparations likes PoC Plan, Solution Document, Project findings.
+        Angular 1.x, Airwatch, Swift 3, PhoneGap, Kony, CocoaTouch, CoreData, SQLite, SAP Mobile, MSSQL Database 2008, Layer 7, Airwatch MDM
+
+          - Successfully delivered a paid PoC on Azure Cloud IoT platform and iPad devices, which converted to project
+          - Started as Technology consultancy assignment and converted in to a downstream of 400K USD
+          - Successfully delivered a custom tailored middleware and mobile sync server with Persistent store capability
+
+    - role: Sr. Mobile Application Developer
+      time: Aug 2013 - Apr 2014
+      company: Fulcrum WorlWide, Pune
+      details: |
+        Developed Enterprise Grade Mobile Apps for LifeNexus, VWR International, Godrej.
+        University of Manchester Mobile Application Development Strategy for University Apps
+        PhoneGap, jQueryMobile, Javascript, Node, Titanium, PHP based REST Services
+          - Successfully delivered a paid PoC on Azure Cloud IoT platform and iPad devices, which converted to project
+          - Started as Technology consultancy assignment and converted in to a downstream of 400K USD
+          - Successfully delivered a custom tailored middleware and mobile sync server with Persistent store capability
+
+    - role: Sr. Mobile Application Developer
+      time: Oct 2010 - June 2013
+      company: Zensar Pvt Ltd, Pune
+      details: |
+        Developed Enterprise Grade Airline Mobile Apps for Jetstar.
+        JetStar is low-cost Australian Airways. For Crews, Pilots, Captions, Deck Employee iPad based app
+developed called JetStar Flight Information Display System (JFIDS). To calculate the Center of Gravity of Aircarft, iPad based application called Weight and Balance (WB) developed. FAA approved the use of the Apple iPad within aircraft cockpits across America so long as the device is used as a secondary, backup resource to long-reliable paper options, pilots may choose to reference the iPad for various flight needs.
+        Objective C, iPhoneGap, Javascript, jQueryMobile, PHP, MSSQL, .NET SOAP Services
+          - Successful development of bespoke solution, which was resulted as joint IP between Zensar and Jetstar.
+          - Use of BlueBamboo Printers iP25 as external accessories for printing over iPad
+
+    - role:  Software Developer
+      time: Feb 2010 - June 2010
+      company: Government College of Engineering, Pune
+      details: |
+        MIS intended for Universities, educational institutes and colleges which provide different academic programs for under graduate, post graduate, Doctoral students or any specialized job oriented programs. The product allow Enrollment for students and faculties with unique ID Student Credit Registration and Elective Selection Complete academic configuration to conduct the program which includes creating Academic Calendar, adopting multiple marking system such as Relative or Absolute, Deciding Academic and Exam Schema for conduction for Academic and Exam Hostel Management for the students.
+        Motorcycle Rides GPS is the only iPhone and iPod Touch app that is specifically designed to help Aussie and Kiwi riders find great places to ride their bikes, Search for Nearby Rides (GPS) based on your current location. Search Rides by Location (currently we have over 200 Australian and NZ based motorbike rides in our directory; new rides are added on a weekly basis (and automatically added to the app) Plan a day’s riding using our new Ride Itinerary Planner. View on-board Ride Videos of our favourite rides; Record your own rides GPS tracks using our Ride GPS Recorder. Save your Recorded Rides and share with Motorcycle Rides for inclusion in our ride directory. Share rides with friends via email, Facebook and Twitter. This application is developed for Australia, New Zealand UK, and US versions.
+        Objective C, CocoaTouch, SQLite, SharePoint, iPhoneGap, Javascript, jQueryMobile, PHP, MSSQL, .NET SOAP Services
+          - Successful development of bespoke solution on SharePoint, MSSQL
+          - jQuery Mobile based Cross Platform app for Android devices and Native Objective C based iOS app developed in quick time integrating with wordpress
+
+    - role:  Software Developer
+      time: Oct 2007 - Jan 2009
+      company: IBM India Pvt Ltd, Banglore
+      details: |
+        Empire Health Choice is a maintenance project for maintaining various software modules of Empire Health Choice Inc. Modules currently provide health insurance coverage for approximately 4.7 million indemnities and managed care subscribers. For more than 65 years, Empire has played a major role in helping to meet the health care needs of New York people residing in the 28 counties of eastern New York as well as multi-state employer groups. This is Maintenance and Enhancement Project for Empire Health Choice software modules that include Claims, Membership, Financial Processing Disbursement, Provider, ITS, etc. (Support)
+        CA-7, REXX, COBOL, C++, JCL, Endevor
+        Writing/ enhancement the REXX using C/C++ programs to process the requests that are coming through ISPF panels. Handling Records in Files using C, C++. Batch Scheduling Systems. Running of Regression Cycles.
+          - Achieved the lowest defect rate in the project for Environments stream (< 2 %)
 
 projects:
     title: Projects
@@ -134,67 +158,63 @@ projects:
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
 
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Aetna Member Central Portal
+        link: "https://my.aetna.com/#/public-search/"
+        tagline: "A responsive Multilingual Portal in Angular for Health Providers"
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: JetLoad
+        link: "https://www.gadgetsnow.com/it-services/New-app-calculates-aircraft-weight/articleshow/21846798.cms"
+        tagline: "Joint IP between Zensar and Jetstar. iPad based application to support A320, A330 types of Aircrafts for their Weight and Balancing."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: Godrej Snagging Application
+        link: "https://www.gadgetsnow.com/it-services/New-app-calculates-aircraft-weight/articleshow/21846798.cms"
+        tagline: "Godrej Properties is looking for iPad-based applications to enter the details about property, floor plan, complaints about the constructions (snag), house issue tracker."
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: LifeNexus iChip Mobile Application
+        link: "https://www.mobihealthnews.com/24472/lifenexus-raises-4m-for-health-smart-card-mobile-app-coming-soon"
+        tagline: "LifeNexus San Francisco start-up looking to replace the traditional insurance card with a digital version. The company offers a system called iChip as a personalized health information exchange on a smart card. LifeNexus smart card, which the company sells B2B to health plans, contains both administrative and clinical data including insurance eligibility and coverage, as well as a personal health record including care gaps, medical history, prescriptions, allergies, hospitalizations, and advanced directives."    
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: MotoRides
+        link: "itms://itunes.apple.com/au/app/motorides/id402417251"
+        link: "http://www.motorcyclerides.com.au/motorbike-iphone-app"
+        link: "http://apptube.podnova.com/Motorcycle_Rides_Aus_1140661"
+        tagline: "Motorcycle Rides GPS is the only iPhone and iPod Touch app that is specifically designed to help Aussie and Kiwi riders find great places to ride their bikes, Search for Nearby Rides (GPS) based on your current location. Search Rides by Location (currently we have over 200 Australian and NZ based motorbike rides in our directory; new rides are added on a weekly basis (and automatically added to the app) Plan a day’s riding using our new Ride Itinerary Planner. View on-board Ride Videos of our favourite rides; Record your own rides GPS tracks using our Ride GPS Recorder. Save your Recorded Rides and share with Motorcycle Rides for inclusion in our ride directory. Share rides with friends via email, Facebook and Twitter. This application is developed for Australia, New Zealand UK, and US versions."      
 
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+certifications and publications:
+    certifications:
+      - title: AWS Certified Solution Architect
+        validity: Valid till April 2020
 
-    papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: "AHM 250 - Academy of Health Management"
+        validity: Unlimited
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: JavaScript and TypeScript
+        level: 95%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Objective C and Swift
+        level: 95%
 
       - name: Angular
-        level: 98%
+        level: 95%
+
+      - name: ES6, Node, Sinon, Mocha, Chai, Jasmin, Git, Jenkins, Airwatch, Kafka
+        level: 90%
 
       - name: HTML5 & CSS
         level: 95%
 
-      - name: Ruby on Rails
+      - name: React and React Native, Redux
+        level: 85%
+      
+      - name: PgSQL and MariaDB
         level: 85%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: AWS Cloud Management, S3, Lambda, DynamoDB, Cloud Formation, RDS
+        level: 80%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
