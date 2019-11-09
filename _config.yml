@@ -2,7 +2,7 @@
 
 # Site Settings
 title: Jayesh A Shinde
-url: 'http://webjeda.com'
+url: 'https://jayeshinde.github.ion'
 baseurl: '/online-cv' #change it according to your repository name
 description: Personal Website
 # Style will be applied only after restarting the build or serve. Just choose one of the options.
