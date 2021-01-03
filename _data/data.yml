@@ -61,13 +61,15 @@ education:
 
 experiences:
 
-- role: Sr. Technical Architect
+    - role: Sr. Technical Architect
       time: Apr 2020 - Present
       company: Compucom CSI Pvt Ltd, Pune
       details: |
        Responsible for revamping the Business Applications. Maintain and govern the coding standards across all products.
 Improve the performance, security of existing products. Build new solutions around AI-OPs using Ansible, terraform, Jenkins, Tensor-flow, Jupiter Notebook. 
-Build highly efficient and performance driven PWA using Angular 10, NRWL, Micro-front End Architecture. Build highly efficient Micro services using OpenAPI , gRPC and Typescript. Build scalable Database architecture and DataLake using MariaDB, PgSQL, Talend. Authentication and Authorisation using ForgeRock. Containerizations of apps using Kubernetes. Cloud hosting of application in AWS and Azure environment.
+Build highly efficient and performance driven PWA using Angular 10, NRWL, Micro-front End Architecture. Build highly efficient Micro services using OpenAPI, gRPC and Typescript.
+Build scalable Database architecture and DataLake using MariaDB, PgSQL, Talend. Authentication and Authorisation using ForgeRock.
+Containerizations of apps using Kubernetes. Cloud hosting of application in AWS and Azure environment.
 Use of ELK for correlation ids and use of app monitoring using logstash.
 
           - Delivered custom bespoke asset management portal in short span of time
