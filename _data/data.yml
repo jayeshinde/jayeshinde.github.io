@@ -12,8 +12,8 @@ sidebar:
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: jayeshshin@outlook.com
-    phone: 
+    email: jayesh.shinde@yahoo.co.in
+    phone: +91-8605016395
     website: jayeshinde.github.io/my-blogs #do not add http://
     linkedin: jayeshshinde
     github: jayeshinde
@@ -37,11 +37,11 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I am certified AWS Solution Architect, having 12 years of IT experience, all my experience is in Enterprise level Mobile and Web Application Development right from Technology Consulting, POC, Development to UAT, Product Roadmaps.
+      I am certified AWS Solution Architect, having 14 years of IT experience, all my experience is in Enterprise level Mobile and Web Application Development right from Technology Consulting, POC, Development to UAT, Product Roadmaps.
 
-      In this 12 years I worked with major service providers IBM, TCS, Accenture, Zensar and served multiple clients across US, UK, Australia from Manufacturing, Health Care, Banking Domains like LifeNexus, MerckMSD, JCI, Holcim, Aetna, JetStar Airline, JLR. 
+      In this 14 years I worked with major service providers IBM, TCS, Accenture, Zensar and served multiple clients across US, UK, Australia from Manufacturing, Health Care, Banking Domains like LifeNexus, MerckMSD, JCI, Holcim, Aetna, JetStar Airline, JLR. 
       I started my career as Native iOS Developer, then turn in to Full Stack Developer using various javascript frameworks like React, Angular, Knockout, Backbone, SAP UI5. Worked on various cross platform tools like PhoneGap, Titanium, Ionic.
-      On API layers worked on PHP, Node JS, for API Management worked on Layer7, Apigee. 
+      On API layers worked on PHP, Node JS, Netflix Eureka, Apollo GraphQL. API Management worked on Layer7, Apigee. 
       Having Excellent hands on PgSQL and MariaDB, MySQL as Databases. 
       Practical Experience on setting up Kafka as Message Queuing with Node, Jenkins.
       I also have strong experience on bringing various Enterprise systems like IBM Mainframe, Salesforce, SAP S4HANA, ECC Systems on mobile.
@@ -60,8 +60,20 @@ education:
           - First Class with Distinction
 
 experiences:
-    - role: UI Technical Architect
-      time: Sep 2018 - Present
+
+- role: Sr. Technical Architect
+      time: Apr 2020 - Present
+      company: Compucom CSI Pvt Ltd, Pune
+      details: |
+       Responsible for revamping the Business Applications. Maintain and govern the coding standards across all products.
+Improve the performance, security of existing products. Build new solutions around AI-OPs using Ansible, terraform, Jenkins, Tensor-flow, Jupiter Notebook. 
+Build highly efficient and performance driven PWA using Angular 10, NRWL, Micro-front End Architecture. Build highly efficient Micro services using OpenAPI , gRPC and Typescript. Build scalable Database architecture and DataLake using MariaDB, PgSQL, Talend. Authentication and Authorisation using ForgeRock. Containerizations of apps using Kubernetes. Cloud hosting of application in AWS and Azure environment.
+Use of ELK for correlation ids and use of app monitoring using logstash.
+
+          - Delivered custom bespoke asset management portal in short span of time
+
+    - role: Technical Architect
+      time: Sep 2018 - Apr 2020
       company: Emirates National Bank of Dubai, Dubai
       details: |
         End-to-End Solutioning and acting as Senior full Stack Developer
@@ -189,6 +201,9 @@ skills:
 
     toolset:
       - name: JavaScript and TypeScript
+        level: 98%
+
+      - name: Microservices
         level: 98%
 
       - name: Objective C and Swift
